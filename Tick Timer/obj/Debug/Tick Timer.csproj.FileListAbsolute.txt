@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tick Timer\Tick Timer\bin\Debug\Tick Timer.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tick Timer\Tick Timer\bin\Debug\Tick Timer.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tick Timer\Tick Timer\bin\Debug\Tick Timer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tick Timer\Tick Timer\obj\Debug\Tick Timer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tick Timer\Tick Timer\obj\Debug\Tick_Timer.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tick Timer\Tick Timer\obj\Debug\Tick_Timer.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tick Timer\Tick Timer\obj\Debug\Tick Timer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tick Timer\Tick Timer\obj\Debug\Tick Timer.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Tick Timer\Tick Timer\obj\Debug\Tick Timer.pdb
